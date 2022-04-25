@@ -7,7 +7,7 @@ google_analytics: # Tracking ID, e.g. "UA-000000-01"
 # Author
 author:
   name: 贺斌
-  desc: Hello nice to meet you
+  desc: Nice to meet you!
   email: tonyangell@163.com
   selfie: assets/img/profile.jpg
 
@@ -19,7 +19,7 @@ social:
   dribbble:
   facebook: Test
   flickr:
-  github: kssim
+  github: ihonux
   google_plus:
   instagram:
   keybase:
