@@ -1,14 +1,14 @@
 # Site settings
-title: A.P
-baseurl: "/ap"
-url: "https://kssim.github.io"
+title: iHonux's Homepage
+baseurl: "/"
+url: "https://ihonux.github.io"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
 # Author
 author:
-  name: KyeongSeob Sim
+  name: 贺斌
   desc: Hello nice to meet you
-  email: ksub0912@gmail.com
+  email: tonyangell@163.com
   selfie: assets/img/profile.jpg
 
 # social
@@ -23,7 +23,7 @@ social:
   google_plus:
   instagram:
   keybase:
-  linkedin: https://www.linkedin.com/in/kssim/ 
+  linkedin: 
   pinterest:
   reddit:
   soundcloud:
