@@ -8,7 +8,7 @@ layout: about
 <br/>
 
 # 论文
-* [1]贺斌.广电私有云流媒体直播平台建设[J].现代电视技术,2023,No.259(01):62-66. [<a href="https://tvtech.cctv.com/2023/01/PERD1glbvdus5oubt55uq45gr6.shtml#page/62" target="_blank">View</a>]
+* [1]贺斌.广电私有云流媒体直播平台建设[J].现代电视技术,2023,No.259(01):62-66. [<a href="https://tvtech.cctv.com/2023/01/PERD1glbvdus5oubt55uq45gr6.shtml#page/62" target="_blank">View</a>] 
 * [2]贺斌.基于WebRTC技术的低延时融合媒体互通应用研究[J].广播与电视技术,2022,49(08):53-57. [<a href="https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=GBDJ202208003&uniplatform=NZKPT&v=LD--Alh-peHT-FaEn77r6rt69ASXnVHH24Tbhc7voJgSpbP-PZ3jd46SAdl4Cfzj" target="_blank">View</a>]
 * [3]贺斌.电视台视频流管理系统的设计与实现[J].广播与电视技术,2021,48(09):56-61. [<a href="http://www.doc88.com/p-14661793893026.html" target="_blank">View</a>]
 * [4]贺斌.电视台非编机房计时管理系统的设计与应用[J].影视制作,2021,27(10):74-82. [<a href="http://lib.cqvip.com/Qikan/Article/Detail?id=7106066539" target="_blank">View</a>]
